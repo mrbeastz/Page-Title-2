@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:black;
+    background-image: url("https://data.whicdn.com/images/304709980/original.gif");
+
+
+}
+
+
+.container, .results {
+    width: 400px;
+    padding: 10px;
+    margin: 50px auto;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: white;
+}
+
+h3{
+   color:aqua; 
+}
